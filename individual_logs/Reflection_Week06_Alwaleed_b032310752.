@@ -1,5 +1,0 @@
-# Reflection – Week 6
-
-This week I learned how important quality and risk management are in a real project. When we defined quality for our AI-LungCare system, it helped me understand what “good” actually means for our model and dashboard, not just accuracy but also speed and clean data. Creating the checklist made everything more organized because now we know exactly what to check before we say the system is ready.
-
-The risk register also helped me see where the project can fail, especially with GPU cost and dataset problems. After sharing the files with my team on MS Teams, everyone gave quick feedback, and it felt like we were more aligned. Overall, Week 06 made our project more structured and clearer.
