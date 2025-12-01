@@ -29,3 +29,6 @@
 
 3. **R5 – API prediction becomes too slow (Score 9)**  
    A slow API makes the system hard to use. The dashboard needs fast results, so if the prediction time is long, users will not be satisfied.
+
+## Team Communication Note
+<img width="575" height="118" alt="Screenshot 2025-12-01 120322" src="https://github.com/user-attachments/assets/5498d727-47cb-4f83-b5fb-95c323cca5de" />
