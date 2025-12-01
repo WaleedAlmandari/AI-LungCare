@@ -17,3 +17,15 @@
 | R4      | Miscommunication between team members          | Stakeholder | 3 | 2 | 6     | Improve comms   |
 | R5      | API prediction becomes too slow                | Technical   | 3 | 3 | 9     | Optimize system |
 | R6      | Laptop/PC crashes during model training        | Resource    | 2 | 4 | 8     | Backup & cloud  |
+
+
+## Top 3 Priority Risks
+
+1. **R3 – GPU cloud costs become too high (Score 16)**  
+   This is our most serious risk because model training takes time and GPU usage can quickly increase the project cost. If the cost goes too high, we might not be able to finish the model training properly.
+
+2. **R1 – Dataset too small or unbalanced (Score 12)**  
+   If the dataset is not good, the model accuracy will drop. This affects the whole quality of the system, so fixing the dataset early is very important.
+
+3. **R5 – API prediction becomes too slow (Score 9)**  
+   A slow API makes the system hard to use. The dashboard needs fast results, so if the prediction time is long, users will not be satisfied.
