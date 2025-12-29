@@ -1,5 +1,7 @@
 This communication plan defines how information will be shared among stakeholders during the management of the LungCare AI-based healthcare system. Effective communication ensures alignment, reduces risks, and supports informed decision-making throughout the project lifecycle.
 
+Communication Plan Table
+
 | Communication Item                         | Audience                             | Frequency            | Communication Method  |
 | ------------------------------------------ | ------------------------------------ | -------------------- | --------------------- |
 | Project progress updates                   | Clinic Owner / Management            | Weekly               | Email / MS Teams      |
