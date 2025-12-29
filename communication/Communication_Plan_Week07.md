@@ -1,0 +1,11 @@
+This communication plan defines how information will be shared among stakeholders during the management of the LungCare AI-based healthcare system. Effective communication ensures alignment, reduces risks, and supports informed decision-making throughout the project lifecycle.
+
+| Communication Item                         | Audience                             | Frequency            | Communication Method  |
+| ------------------------------------------ | ------------------------------------ | -------------------- | --------------------- |
+| Project progress updates                   | Clinic Owner / Management            | Weekly               | Email / MS Teams      |
+| Technical discussions and coordination     | AI Development Team                  | As needed            | MS Teams / GitHub     |
+| Risk and issue updates                     | Project Manager & Key Stakeholders   | Bi-weekly            | Email / Report        |
+| System performance and AI results summary  | Doctors / Medical Staff              | Monthly              | Report / Presentation |
+| Data privacy and security updates          | Data Privacy & Security Stakeholders | Monthly or as needed | Email / Documentation |
+| Academic progress and documentation review | Project Supervisor                   | Weekly               | MS Teams / Email      |
+| Deployment or system readiness updates     | Clinic Management & IT stakeholders  | As needed            | MS Teams / Meeting    |
