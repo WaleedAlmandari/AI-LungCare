@@ -14,6 +14,9 @@ From the Week 05 Cost & Resource Plan, the planned total budget is **approximate
 - **Final submission** (final report, slides, and GitHub release **v1.0**) — **End of Week 9**
 
 
+
+
+
 ## Progress Tracking (Midway Checkpoint)
 
 Assuming the project is midway through execution, the progress is tracked by comparing the planned completion against the actual completion.
@@ -49,4 +52,3 @@ Other smaller gaps:
 - Mainly **resources + risks**: limited time and workload, plus risk of dataset quality affecting training results.
 - There is also a **cost risk**: extra training/tuning may increase GPU/compute usage compared to the original estimate.
 - **Scope** is not the main issue, but if we keep adding extra features/models, it can increase delays.
-
