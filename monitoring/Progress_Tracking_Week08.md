@@ -29,3 +29,24 @@ Assuming the project is midway through execution, the progress is tracked by com
 ### Tasks behind schedule / over cost (at least 2)
 - **Model training and tuning** is behind because tuning and validation take longer than expected, and GPU/compute time may increase cost.
 - **Web integration (React + Flask API)** is behind because integration needs debugging between frontend and backend, and it depends on stable model output format.
+
+## Performance Analysis
+
+### Which tasks show the largest deviation from plan?
+Based on the progress tracking table, the biggest gaps are:
+- **Model training and tuning (CNN): Planned 100% vs Actual 80% → -20% deviation**
+- **Web integration (React + Flask API): Planned 50% vs Actual 30% → -20% deviation**
+Other smaller gaps:
+- Dataset cleaning: -10%
+- Supervision/testing: -10%
+
+### What are the possible causes?
+- **Model training** took longer because tuning and validation need repeated experiments, and sometimes the dataset needs more cleaning/balancing before results become stable.
+- **Integration** is delayed because connecting UI ↔ API usually needs debugging (API routes, JSON format, prediction output format) and it depends on the model output being finalized.
+- Some tasks depend on each other (example: integration becomes harder if the model output is still changing).
+
+### Are the issues related to scope, cost, resources, or risks?
+- Mainly **resources + risks**: limited time and workload, plus risk of dataset quality affecting training results.
+- There is also a **cost risk**: extra training/tuning may increase GPU/compute usage compared to the original estimate.
+- **Scope** is not the main issue, but if we keep adding extra features/models, it can increase delays.
+
