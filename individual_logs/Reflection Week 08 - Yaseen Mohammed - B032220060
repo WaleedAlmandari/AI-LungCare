@@ -1,0 +1,9 @@
+# Lessons Learned – Week 08
+Project: AI-LungCare
+Name: Yaseen Mohammed Awad  B032220060
+
+## 1) What planning activity helped most in monitoring progress?
+The most useful planning activity for monitoring progress was setting milestones and deadlines in the schedule. It gave us a clear target like “finish data prep by Week 2” and “validate model by Week 4”. Because of that, it was easy to notice early when we are delayed and why.
+
+## 2) What would you do differently in future projects?
+Next time, I would improve risk planning by listing possible problems early (data quality, limited time, integration bugs) and preparing backup solutions. I would also set clear ownership (one person responsible for data, one for model, one for integration) so tasks don’t overlap or get delayed. Finally, I would document decisions weekly (what changed, what was tested) to reduce confusion and repeated work.
