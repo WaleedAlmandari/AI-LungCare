@@ -1,25 +1,16 @@
 ## Project Baseline Summary
-- Project name: AI-LungCare
-- Project goal: Develop an AI-assisted system that helps detect/identify lung-related conditions from medical data (e.g., X-ray images) and present results in a clear way for clinic staff.
-- Planned duration: 12 weeks
-- Planned budget: RM 6,000 (data preparation + software tools + testing resources)
 
-### Scope Baseline (What we will deliver)
-- A working AI model (training + evaluation results)
-- A simple interface/prototype to upload input and show prediction results
-- Documentation (report, user guide, and final presentation/demo)
-- Basic privacy/security handling (limited access + safe storage approach)
+**Planned duration:**  
+Based on the Week 05 schedule baseline, the project is planned to run from **Week 1 to Week 9**. :contentReference[oaicite:2]{index=2}  
+The phases are planned in order: data preparation, model training, integration, testing/supervision, then reporting and final submission.
 
-### Key Milestones
-- M1: Project initiation + stakeholder approval (Week 2)
-- M2: Dataset collection + preprocessing completed (Week 5)
-- M3: Model training + evaluation results produced (Week 8)
-- M4: System integration + testing (Week 10)
-- M5: Final report + presentation/demo submission (Week 12)
+**Planned budget:**  
+Based on the Week 05 Cost & Resource Plan, the **total estimated budget is ≈ RM 785**. :contentReference[oaicite:3]{index=3}  
+Most of the cost comes from human work (data prep + model training + integration), while tools/software and cloud GPU are smaller portions. :contentReference[oaicite:4]{index=4}  
 
-### Baseline Assumptions / Constraints
-- Dataset access is available on time and has acceptable quality.
-- Team members contribute weekly based on assigned roles (PM, AI team, documentation).
-- Model performance target: stable and explainable results (not only high accuracy).
-- Risks: data quality issues, limited time, and hardware/compute limitations.
-
+**Key milestones:**  
+- Data Preparation Complete (End of Week 2) :contentReference[oaicite:5]{index=5}  
+- Model Performance Validated (End of Week 4) :contentReference[oaicite:6]{index=6}  
+- System Integration Ready (End of Week 6) :contentReference[oaicite:7]{index=7}  
+- Supervisor Approval (End of Week 7) :contentReference[oaicite:8]{index=8}  
+- Final Submission (End of Week 9) :contentReference[oaicite:9]{index=9}  
