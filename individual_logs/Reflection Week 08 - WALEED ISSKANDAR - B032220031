@@ -1,0 +1,9 @@
+# Lessons Learned – Week 08
+Project: AI-LungCare
+Name: ALMANDARI WALEED ISSKANDAR  B032220031
+
+## 1) What planning activity helped most in monitoring progress?
+The planning activity that helped me most was the progress tracking table (planned % vs actual %). It’s simple but it shows the real situation quickly. When I saw the gap, I understood which tasks are behind (like integration and model validation) instead of just “feeling” that we are late.
+
+## 2) What would you do differently in future projects?
+In future projects, I would plan tasks in smaller steps (example: preprocessing → split data → train v1 → evaluate → integrate) so progress is easier to measure. I would also decide early on one main model first, then do improvements later, because testing many options can waste time. Lastly, I would start integration earlier using dummy outputs to avoid waiting until the model is fully finished.
